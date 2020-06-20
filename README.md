@@ -6,7 +6,7 @@
   <br>
 </h1>
 <h4 align="center">
-  Java implementation of the <a href="https://tron.network">Sun Network</a>
+  Java implementation of the <a href="https://mindsen.github.io">Mindsen Network</a>
 </h4>
 
 [![Join the chat at https://gitter.im/tronprotocol/sun-network](https://badges.gitter.im/tronprotocol/sun-network.svg)](https://gitter.im/tronprotocol/sun-network)
@@ -14,7 +14,7 @@
 ## What's SunNetwork?
 
 
-Sun Network is a project dedicated to building a trustful decentralized sidechain of TRON Blockchain. 
+Sun Network is a project dedicated to building a trustful decentralized sidechain of MINDSEN Blockchain. 
 When completed, this project will greatly increase on-chain TPS rates, while decreasing the energy consumption of smart contract executions, which is very beneficial for both DAPP developers and the on-chain users of the TRON Blockchain.
 
 
