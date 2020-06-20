@@ -2,7 +2,7 @@
   <br>
   <img width=20% src="https://github.com/tronprotocol/wiki/blob/master/images/java-tron.jpg?raw=true">
   <br>
-  Sun Network
+  Mind Network
   <br>
 </h1>
 <h4 align="center">
@@ -21,7 +21,7 @@ When completed, this project will greatly increase on-chain TPS rates, while dec
 # Developer Community
 
 * [Discord](https://discordapp.com/invite/Anun6b7) Please join our Developer Discord
-* [Gitter](https://gitter.im/tronprotocol/sun-network) the core dev gitter
+* [Gitter](https://gitter.im/mindsent/) the core dev gitter
 
 
 # Projects
